@@ -1,0 +1,8 @@
+# 개인 활용 모델
+/my_model/
+
+# 개인 환경 변수
+.env
+
+# .DS_store
+.DS_store
