@@ -36,9 +36,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 나주시 복지환경국 복지정책과
 
@@ -68,9 +67,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 나주시 복지환경국 복지정책과
 
@@ -100,9 +98,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 구례군 주민복지과
 
@@ -154,9 +151,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 서귀포시 복지위생국 노인장애인과
 
@@ -184,9 +180,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 서귀포시 복지위생국 노인장애인과
 
@@ -214,9 +209,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 서귀포시 복지위생국 노인장애인과
 
@@ -244,9 +238,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 서귀포시 복지위생국 노인장애인과
 
@@ -272,9 +265,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 제주시 복지위생국 노인복지과
 
@@ -302,9 +294,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 제주시 복지위생국 노인복지과
 
@@ -334,9 +325,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 서귀포시 서귀포보건소
 
@@ -366,9 +356,8 @@
 
 **Target Audience: **저소득, 장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 제주시 복지위생국 노인복지과
 
@@ -452,9 +441,8 @@
 
 **Provision Type: **실물바우처
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 목포시 자치행정복지국 노인장애인과
 
@@ -482,9 +470,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 영동군 보건소 보건행정과
 
@@ -512,9 +499,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 해남군 가족행복과
 
@@ -542,9 +528,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 장성군 자치행정국 가족행복과
 
@@ -654,9 +639,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 장흥군 노인아동과
 
@@ -712,9 +696,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 청양군 통합돌봄과
 
@@ -770,9 +753,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 고성군 행정복지국 복지과
 
@@ -800,9 +782,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 울진군 행정복지국 사회복지과
 
@@ -830,9 +811,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 평창군 행정지원국 가족복지과
 
@@ -860,9 +840,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 제주특별자치도 복지가족국 노인복지과
 
@@ -888,9 +867,8 @@
 
 **Provision Type: **프로그램/서비스(서비스), 현물대여
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 울진군 행정복지국 사회복지과
 
@@ -916,9 +894,8 @@
 
 **Provision Type: **전자바우처(바우처)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 고성군 행정복지국 복지과
 
@@ -946,9 +923,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 횡성군 가족복지과
 
@@ -976,9 +952,8 @@
 
 **Provision Type: **지역화폐
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 옹진군 보건소 건강증진과
 
@@ -1008,9 +983,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 보성군 보건소
 
@@ -1036,9 +1010,8 @@
 
 **Provision Type: **기타, 현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 영등포구 복지국 생활보장과
 
@@ -1066,9 +1039,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 곡성군 주민복지과
 
@@ -1154,9 +1126,8 @@
 
 **Target Audience: **다문화·탈북민, 다자녀, 한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 횡성군 보건소
 
@@ -1184,9 +1155,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 고성군 보건소 보건정책과
 
@@ -1214,9 +1184,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 전라남도 영광군 가정행복과
 
@@ -1242,9 +1211,8 @@
 
 **Provision Type: **자원봉사
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 양양군 복지정책과
 
@@ -1270,9 +1238,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 영암군 주민복지과
 
@@ -1298,9 +1265,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 밀양시 행정국 사회복지과
 
@@ -1326,9 +1292,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 함평군 가족행복과
 
@@ -1382,9 +1347,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 영광군 가정행복과
 
@@ -1440,9 +1404,8 @@
 
 **Provision Type: **감면
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 구례군 주민복지과
 
@@ -1468,9 +1431,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 도봉구 복지가족국 어르신장애인과
 
@@ -1528,9 +1490,8 @@
 
 **Target Audience: **보훈대상자
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 양양군 복지정책과
 
@@ -1556,9 +1517,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문, 모바일
+
 
 ### Department: 전라남도 강진군 군민행복과
 
@@ -1694,9 +1654,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문, 우편
+
 
 ### Department: 전라남도 함평군 가족행복과
 
@@ -1722,9 +1681,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 장흥군 노인아동과
 
@@ -1806,9 +1764,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 담양군 행정국 향촌복지과
 
@@ -1890,9 +1847,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 강남구 복지생활국 어르신복지과
 
@@ -1948,9 +1904,8 @@
 
 **Provision Type: **감면, 현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경상남도 의령군 행정복지국 주민생활지원과
 
@@ -1978,9 +1933,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 의령군 행정복지국 주민생활지원과
 
@@ -2008,9 +1962,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 기장군 보건소 건강증진과
 
@@ -2038,9 +1991,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 고성군 행정복지국 복지과
 
@@ -2068,9 +2020,8 @@
 
 **Provision Type: **지역화폐
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 사천시 행정복지국 노인장애인과
 
@@ -2096,9 +2047,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 세종특별자치시 보건복지국 노인장애인과
 
@@ -2124,9 +2074,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 은평구 주민복지국 어르신복지과
 
@@ -2154,9 +2103,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 하남시 복지국 노인장애인복지과
 
@@ -2268,9 +2216,8 @@
 
 **Target Audience: **다문화·탈북민, 한부모·조손
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경기도 하남시 복지문화국 노인장애인복지과
 
@@ -2384,9 +2331,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 남해군 행정복지국 주민행복과
 
@@ -2414,9 +2360,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 기장군 문화복지국 노인장애인복지과
 
@@ -2474,9 +2419,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 남구 주민행복국 복지지원과
 
@@ -2560,9 +2504,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 김제시 경제복지국 주민복지과
 
@@ -2642,9 +2585,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 달서구 복지증진국 어르신장애인과
 
@@ -2670,9 +2612,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 의령군 행정복지국 주민생활지원과
 
@@ -2700,9 +2641,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 전주시 전주시보건소 치매안심과
 
@@ -2730,9 +2670,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 연수구 복지환경국 사회보장과
 
@@ -2762,9 +2701,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 해남군 가족행복과
 
@@ -2794,9 +2732,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 파주시 복지정책국 노인장애인과
 
@@ -2938,9 +2875,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 통영시 문화복지교통국 노인장애인과
 
@@ -2968,9 +2904,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경상남도 고성군 행정복지국 주민생활과
 
@@ -2998,9 +2933,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 서천군 행정복지국 인구정책과
 
@@ -3028,9 +2962,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 익산시 복지교육국 복지정책과
 
@@ -3058,9 +2991,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 함평군 보건소
 
@@ -3088,9 +3020,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 제주시 복지위생국 노인복지과
 
@@ -3118,9 +3049,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 제주시 복지위생국 노인복지과
 
@@ -3148,9 +3078,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 보건복지국 복지정책과
 
@@ -3176,9 +3105,8 @@
 
 **Target Audience: **한부모·조손, 장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 통영시 문화복지교통국 노인장애인과
 
@@ -3290,9 +3218,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 서천군 행정복지국 인구정책과
 
@@ -3430,9 +3357,8 @@
 
 **Provision Type: **기타, 자원봉사
 
-
-
 **Application Method: **방문, 전화, 인터넷
+
 
 ### Department: 전라남도 광양시 시민복지국 주민복지과
 
@@ -3460,9 +3386,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 광주광역시 광산구 상생복지국 고령사회정책과
 
@@ -3488,9 +3413,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 김천시 복지환경국 사회복지과
 
@@ -3518,9 +3442,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 강서구 복지환경국 생활지원과
 
@@ -3546,9 +3469,8 @@
 
 **Provision Type: **전자바우처(바우처)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 화성시 시민복지국 중장년노인복지과
 
@@ -3604,9 +3526,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경기도 화성시 시민복지국 중장년노인복지과
 
@@ -3688,9 +3609,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 거창군 경제복지국 행복나눔과
 
@@ -3744,9 +3664,8 @@
 
 **Target Audience: **저소득, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 홍성군 행정복지국 복지정책과
 
@@ -3774,9 +3693,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 천안시 서북구 주민복지과
 
@@ -3804,9 +3722,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **전화
+
 
 ### Department: 충청남도 홍성군 행정복지국 복지정책과
 
@@ -3918,9 +3835,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문, 전화, 우편, E-mail, 팩스
+
 
 ### Department: 전북특별자치도 남원시 보건소 치매안심과
 
@@ -3978,9 +3894,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 충청북도 옥천군 행정복지국 주민복지과
 
@@ -4010,9 +3925,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 남원시 자치행정국 노인장애인과
 
@@ -4038,9 +3952,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 옥천군 행정복지국 주민복지과
 
@@ -4096,9 +4009,8 @@
 
 **Target Audience: **한부모·조손, 장애인
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 서울특별시 마포구 복지동행국 어르신동행과
 
@@ -4128,9 +4040,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 우편, 전화
+
 
 ### Department: 전북특별자치도 남원시 자치행정국 노인장애인과
 
@@ -4188,9 +4099,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 동구 보건소 건강증진과
 
@@ -4218,9 +4128,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경상남도 함양군 행정국 민원봉사과
 
@@ -4274,9 +4183,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **우편, 방문
+
 
 ### Department: 전북특별자치도 부안군 보건소 건강증진과
 
@@ -4304,9 +4212,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 여주시 행복지원국 사회복지과
 
@@ -4336,9 +4243,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 원주시 복지국 경로장애인과
 
@@ -4366,9 +4272,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 옥천군 행정복지국 주민복지과
 
@@ -4396,9 +4301,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 인제군 행정복지국 주민복지과
 
@@ -4426,9 +4330,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 여주시 행복지원국 사회복지과
 
@@ -4456,9 +4359,8 @@
 
 **Provision Type: **지역화폐
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 동구 보건소 건강증진과
 
@@ -4542,9 +4444,8 @@
 
 **Provision Type: **감면
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 광주광역시 동구 복지환경국 노인장애인복지과
 
@@ -4572,9 +4473,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 광주광역시 남구 희망복지국 고령정책과
 
@@ -4604,9 +4504,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 우편
+
 
 ### Department: 인천광역시 옹진군 행정복지국 사회복지과
 
@@ -4634,9 +4533,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 인제군 행정복지국 주민복지과
 
@@ -4718,9 +4616,8 @@
 
 **Target Audience: **저소득, 장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 수영구 복지환경국 가족행복과
 
@@ -4804,9 +4701,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 군산시 복지환경국 복지정책과
 
@@ -4836,9 +4732,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 가평군 행정복지국 행복돌봄과
 
@@ -4864,9 +4759,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 옥천군 행정복지국 주민복지과
 
@@ -5004,9 +4898,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 마포구 복지동행국 어르신동행과
 
@@ -5064,9 +4957,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 여성가족국 노인정책과
 
@@ -5148,9 +5040,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 복지보건국 노인복지과
 
@@ -5202,9 +5093,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 서구 복지국 노인장애인과
 
@@ -5318,9 +5208,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 여성가족국 노인정책과
 
@@ -5348,9 +5237,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 옥천군 균형건설국 도시교통과
 
@@ -5378,9 +5266,8 @@
 
 **Provision Type: **감면
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 사천시 행정복지국 노인장애인과
 
@@ -5436,9 +5323,8 @@
 
 **Provision Type: **감면
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 사회복지과
 
@@ -5466,9 +5352,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 복지정책과
 
@@ -5496,9 +5381,8 @@
 
 **Provision Type: **현금지급, 현물지급
 
-
-
 **Application Method: **우편, 전화, 방문, 팩스, E-mail
+
 
 ### Department: 충청남도 논산시 보건소 보건위생과
 
@@ -5526,9 +5410,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 사회복지과
 
@@ -5556,9 +5439,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 김천시 보건소 중앙보건지소
 
@@ -5586,9 +5468,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 사회복지과
 
@@ -5616,9 +5497,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 사회복지과
 
@@ -5644,9 +5524,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 복지보건국 노인복지과
 
@@ -5672,9 +5551,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 원주시 보건소 건강증진과
 
@@ -5702,9 +5580,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 경기도 복지국 노인복지과
 
@@ -5754,9 +5631,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 인천광역시 여성가족국 노인정책과
 
@@ -5886,9 +5762,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 무주군 행정복지국 사회복지과
 
@@ -5944,9 +5819,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 충청북도 괴산군 행정복지국 가족행복과
 
@@ -5974,9 +5848,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **전화
+
 
 ### Department: 강원특별자치도 원주시 복지국 복지정책과
 
@@ -6062,9 +5935,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **전화
+
 
 ### Department: 강원특별자치도 삼척시 자치행정국 복지정책과
 
@@ -6148,9 +6020,8 @@
 
 **Provision Type: **감면
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 강릉시 복지민원국 경로장애인과
 
@@ -6206,9 +6077,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **우편
+
 
 ### Department: 부산광역시 연제구 복지교육국 복지정책과
 
@@ -6236,9 +6106,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 동해시 행정복지국 가족과
 
@@ -6436,9 +6305,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 안성시 복지교육국 사회복지과
 
@@ -6490,9 +6358,8 @@
 
 **Provision Type: **실물바우처
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경기도 고양시 기후환경국 기후에너지과
 
@@ -6520,9 +6387,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **우편, 방문, 팩스
+
 
 ### Department: 부산광역시 중구 경제복지국 생활보장과
 
@@ -6578,9 +6444,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **우편, 인터넷
+
 
 ### Department: 대전광역시 복지국 복지정책과
 
@@ -6606,9 +6471,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 김해시 복지국 노인복지과
 
@@ -6664,9 +6528,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 철원군 주민생활지원과
 
@@ -6722,9 +6585,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 서울특별시 종로구 복지교육국 어르신복지과
 
@@ -6754,9 +6616,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 인천광역시 중구 행정복지국 복지정책과
 
@@ -6786,9 +6647,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 충청남도 천안시 서북구보건소 건강관리과
 
@@ -6876,9 +6736,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 서울특별시 구로구 복지지원국 어르신복지과
 
@@ -6986,9 +6845,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문, 우편, 전화
+
 
 ### Department: 경기도 이천시 복지환경국 복지정책과
 
@@ -7016,9 +6874,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 제천시 문화복지국 노인장애인과
 
@@ -7046,9 +6903,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 수원시 복지여성국 어르신돌봄과
 
@@ -7076,9 +6932,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 수원시 복지여성국 어르신돌봄과
 
@@ -7106,9 +6961,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 울산광역시 남구 복지교육국 노인장애인과
 
@@ -7138,9 +6992,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 하남시 복지문화국 노인장애인복지과
 
@@ -7168,9 +7021,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 충청북도 제천시 문화복지국 노인장애인과
 
@@ -7196,9 +7048,8 @@
 
 **Provision Type: **현물지급, 기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 청송군 주민행복과
 
@@ -7224,9 +7075,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 아산시 보건소 건강증진과
 
@@ -7256,9 +7106,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 광주광역시 도시공간국 주택정책과
 
@@ -7368,9 +7217,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 노원구 교육복지국 생활복지과
 
@@ -7398,9 +7246,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 용산구 생활지원국 사회복지과
 
@@ -7428,9 +7275,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 연천군 행정복지국 사회복지과
 
@@ -7458,9 +7304,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 경기도 하남시 복지문화국 노인장애인복지과
 
@@ -7622,9 +7467,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 제천시 문화복지국 노인장애인과
 
@@ -7710,9 +7554,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **우편, 방문
+
 
 ### Department: 충청북도 단양군 행정복지국 주민복지과
 
@@ -7740,9 +7583,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 경상남도 합천군 행정복지국 노인아동여성과
 
@@ -7772,9 +7614,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상북도 영양군 행정복지국 주민복지과
 
@@ -7802,9 +7643,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 합천군 행정복지국 노인아동여성과
 
@@ -7832,9 +7672,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 울산광역시 울주군 복지교육국 노인장애인과
 
@@ -7860,9 +7699,8 @@
 
 **Provision Type: **전자바우처(바우처)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 강서구 보건소 보건행정과
 
@@ -7918,9 +7756,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 보건복지국 노인복지과
 
@@ -7944,9 +7781,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 서울특별시 양천구 주민복지국 자립지원과
 
@@ -8004,9 +7840,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 종로구 복지교육국 어르신복지과
 
@@ -8034,9 +7869,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 천안시 복지문화국 노인복지과
 
@@ -8064,9 +7898,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 보건복지국 노인장애인과
 
@@ -8090,9 +7923,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 보건복지국 어르신복지과
 
@@ -8146,9 +7978,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **전화
+
 
 ### Department: 부산광역시 부산진구 복지교육국 복지사업과
 
@@ -8202,9 +8033,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 보건복지국 어르신복지과
 
@@ -8232,9 +8062,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 고성군 행정복지국 복지지원과
 
@@ -8292,9 +8121,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 부산광역시 부산진구 복지교육국 복지사업과
 
@@ -8320,9 +8148,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 하동군 기획행정국 주민행복과
 
@@ -8400,9 +8227,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 부산광역시 사회복지국 노인복지과
 
@@ -8540,9 +8366,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 강원특별자치도 춘천시 복지국 복지정책과
 
@@ -8570,9 +8395,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문, 우편
+
 
 ### Department: 경기도 평택시 복지국 노인장애인과
 
@@ -8598,9 +8422,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **전화, 방문, 인터넷
+
 
 ### Department: 경기도 여성가족국 가족다문화과
 
@@ -8626,9 +8449,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 충청남도 부여군 행정복지국 가족행복과
 
@@ -8688,9 +8510,8 @@
 
 **Target Audience: **저소득, 다자녀, 다문화·탈북민, 보훈대상자, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 복지가족국 노인복지과
 
@@ -8716,9 +8537,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 복지가족국 노인복지과
 
@@ -8746,9 +8566,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청북도 보은군 자치행정국 주민복지과
 
@@ -8804,9 +8623,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 함안군 복지환경국 주민복지과
 
@@ -8834,9 +8652,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 경상남도 함안군 복지환경국 주민복지과
 
@@ -8916,9 +8733,8 @@
 
 **Provision Type: **실물바우처
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 김해시 복지국 노인복지과
 
@@ -8946,9 +8762,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 강진군 군민행복과
 
@@ -8976,9 +8791,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문, 모바일, 인터넷, 전화
+
 
 ### Department: 경기도 과천시 건설도시국 교통과
 
@@ -9028,9 +8842,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 강동구 복지가족국 어르신복지과
 
@@ -9058,9 +8871,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 시흥시 복지국 노인복지과
 
@@ -9174,9 +8986,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 강동구 복지가족국 어르신복지과
 
@@ -9202,9 +9013,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 복지보건국 경로보훈과
 
@@ -9230,9 +9040,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **우편, 전화, 방문
+
 
 ### Department: 강원특별자치도 농정국 농산물유통과
 
@@ -9260,9 +9069,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 영월군 여성가족과
 
@@ -9288,9 +9096,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 마포구 복지동행국 어르신동행과
 
@@ -9318,9 +9125,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문, 모바일, 전화, 우편
+
 
 ### Department: 강원특별자치도 영월군 주민복지과
 
@@ -9348,9 +9154,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 서대문구 복지문화체육국 어르신복지과
 
@@ -9466,9 +9271,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 광명시 사회복지국 어르신복지과
 
@@ -9522,9 +9326,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 종로구 복지경제국 사회복지과
 
@@ -9552,9 +9355,8 @@
 
 **Target Audience: **장애인, 한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 의령군 행정복지국 주민생활지원과
 
@@ -9610,9 +9412,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 강북구 복지생활국 어르신·장애인과
 
@@ -9642,9 +9443,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 경기도 복지국 노인복지과
 
@@ -9672,9 +9472,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원특별자치도 양구군 행정복지국 사회복지과
 
@@ -9702,9 +9501,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 달성군 교육복지국 복지정책과
 
@@ -9790,9 +9588,8 @@
 
 **Target Audience: **한부모·조손, 보훈대상자, 장애인
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 대구광역시 달성군 교육복지국 희망지원과
 
@@ -9820,9 +9617,8 @@
 
 **Target Audience: **장애인, 한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 대구광역시 달성군 교육복지국 복지정책과
 
@@ -9850,9 +9646,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 순창군 행정복지국 건강장수과
 
@@ -9878,9 +9673,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 제주특별자치도 복지가족국 노인복지과
 
@@ -9906,9 +9700,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 충청남도 서산시 보건소 건강증진과
 
@@ -9938,9 +9731,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 서산시 복지문화국 경로장애인과
 
@@ -9966,9 +9758,8 @@
 
 **Provision Type: **현물지급
 
-
-
 **Application Method: **우편, 전화, 방문
+
 
 ### Department: 대전광역시 복지국 노인복지과
 
@@ -10022,9 +9813,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 진안군 행정복지국 여성가족과
 
@@ -10054,9 +9844,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 부안군 행정복지국 사회복지과
 
@@ -10084,9 +9873,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 구리시 복지문화국 노인장애인복지과
 
@@ -10114,9 +9902,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 진안군 행정복지국 여성가족과
 
@@ -10198,9 +9985,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 세종특별자치시 보건복지국 노인장애인과
 
@@ -10256,9 +10042,8 @@
 
 **Target Audience: **장애인, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 과천시 경제복지국 사회복지과
 
@@ -10288,9 +10073,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 광명시 안전건설교통국 도시교통과
 
@@ -10318,9 +10102,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 김포시 복지교육국 복지과
 
@@ -10350,9 +10133,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 김포시 복지교육국 노인장애인과
 
@@ -10408,9 +10190,8 @@
 
 **Provision Type: **실물바우처
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 김제시 보건소 건강증진과
 
@@ -10440,9 +10221,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 고양시 복지여성국 노인복지과
 
@@ -10550,9 +10330,8 @@
 
 **Target Audience: **한부모·조손, 저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 부여군 행정복지국 가족행복과
 
@@ -10634,9 +10413,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 울산광역시 남구 복지교육국 노인장애인과
 
@@ -10720,9 +10498,8 @@
 
 **Target Audience: **장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 김포시 복지교육국 노인장애인과
 
@@ -10780,9 +10557,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 충청남도 보령시 행정지원국 경로장애인과
 
@@ -10866,9 +10642,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 진안군 보건소
 
@@ -10896,9 +10671,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경상남도 사천시 보건소
 
@@ -10956,9 +10730,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문, 팩스
+
 
 ### Department: 경상남도 함양군 경제복지국 노인복지과
 
@@ -10986,9 +10759,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **전화, 방문
+
 
 ### Department: 전라남도 장성군 자치행정국 주민복지과
 
@@ -11044,9 +10816,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 서울특별시 성동구 복지국 기초복지과
 
@@ -11074,9 +10845,8 @@
 
 **Target Audience: **저소득, 장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 과천시 경제복지국 사회복지과
 
@@ -11104,9 +10874,8 @@
 
 **Provision Type: **지역화폐
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 정읍시 복지환경국 노인장애인과
 
@@ -11160,9 +10929,8 @@
 
 **Provision Type: **실물바우처
 
-
-
 **Application Method: **방문, 우편
+
 
 ### Department: 충청남도 계룡시 행정복지국 가족행복과
 
@@ -11222,9 +10990,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전라남도 보건복지국 노인복지과
 
@@ -11306,9 +11073,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원도 태백시 행정복지국 사회복지과
 
@@ -11336,9 +11102,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 강원도 태백시 행정복지국 사회복지과
 
@@ -11366,9 +11131,8 @@
 
 **Provision Type: **프로그램/서비스(서비스)
 
-
-
 **Application Method: **방문
+
 
 ### Department: 경기도 포천시 복지환경국 노인장애인과
 
@@ -11448,9 +11212,8 @@
 
 **Provision Type: **기타
 
-
-
 **Application Method: **방문
+
 
 ### Department: 전북특별자치도 고창군 자치행정국 사회복지과
 
@@ -11504,9 +11267,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문, 모바일, 전화
+
 
 ### Department: 강원도 태백시 행정복지국 사회복지과
 
@@ -11590,9 +11352,8 @@
 
 **Target Audience: **한부모·조손
 
-
-
 **Application Method: **방문, 전화
+
 
 ### Department: 대구광역시 중구 행정복지국 생활지원과
 
@@ -11648,9 +11409,8 @@
 
 **Target Audience: **저소득
 
-
-
 **Application Method: **방문
+
 
 ### Department: 노인장애인과
 
@@ -11678,9 +11438,8 @@
 
 **Provision Type: **현금지급
 
-
-
 **Application Method: **방문
+
 
 ### Department: 건강정책과
 
@@ -11710,9 +11469,8 @@
 
 **Target Audience: **저소득, 장애인
 
-
-
 **Application Method: **방문
+
 
 ### Department: 노인복지과
 
